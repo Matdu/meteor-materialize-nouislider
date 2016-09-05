@@ -1,8 +1,8 @@
-# matdu:nouislider
+# matdu:meteor-materialize-nouislider
 
 ## Add noUISlider to Meteor
 
-`meteor add matdu:nouislider`
+`meteor add matdu:meteor-materialize-nouislider`
 
 Uses the library from <a href="https://www.npmjs.com/package/nouislider" target="_blank">`nouislider` NPM repo</a>.
 
