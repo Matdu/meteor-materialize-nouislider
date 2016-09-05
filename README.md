@@ -4,7 +4,7 @@
 
 `meteor add matdu:meteor-materialize-nouislider`
 
-Uses the library from <a href="https://www.npmjs.com/package/nouislider" target="_blank">`nouislider` NPM repo</a>.
+Uses the custom noUiSliderlibrary from <a href="https://github.com/Dogfalo/materialize" target="_blank">`Materialize`</a>.
 
 ## Usage
 
@@ -23,4 +23,4 @@ noUiSlider.create(document.getElementById("slider"), {
 
 ## Documentation
 
-Checkout the noUISlider project at <a href="https://github.com/leongersen/noUiSlider" target="_blank">https://github.com/leongersen/noUiSlider</a> for a more detailed documention.
+Checkout the noUISlider project at <a href="http://refreshless.com/nouislider/" target="_blank">https://github.com/leongersen/noUiSlider/stargazers</a> for a more detailed documention.
