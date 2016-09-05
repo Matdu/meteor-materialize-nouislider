@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use('cosmos:browserify@0.8.1');
   api.addFiles([
     'lib/nouislider.min.js',
-    'lib/nouislider.css',
+    'lib/nouislider.min.css',
     'package.browserify.js'
   ], 'client');
   api.export('noUiSlider', 'client');
