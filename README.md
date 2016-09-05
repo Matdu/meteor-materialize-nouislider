@@ -8,17 +8,23 @@ Uses the custom noUiSliderlibrary from <a href="https://github.com/Dogfalo/mater
 
 ## Usage
 
-Add the to your onRendered (blaze) or componentDidMount (react) function:
+Add the to your onRendered (blaze) or componentDidMount (react).
 
+##Example
+###Blaze
 ```
-noUiSlider.create(document.getElementById("slider"), {
-  connect: "lower",
-  range: {
-    min: 0,
-    max: 100
-  },
-  start: [50, 70],
-});
+Template["name"].onRendered(function(){
+	var slider = document.getElementById('slider');
+	noUiSlider.create(slider, {
+		start: [20, 80],
+		connect: true,
+		step: 1,
+		range: {
+			'min': 0,
+			'max': 100
+		}
+	});
+})
 ```
 
 ## Documentation
