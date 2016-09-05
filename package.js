@@ -1,6 +1,6 @@
 Package.describe({
   name: 'matdu:meteor-materialize-nouislider',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Just a simple libray usage of NoUiSlider with Materialize styling',
   git: 'https://github.com/matdu/meteor-materialize-nouislider',
   documentation: 'README.md'
