@@ -31,7 +31,7 @@ Template["name"].onRendered(function(){
 
 Checkout the noUISlider project at <a href="http://refreshless.com/nouislider/" target="_blank">https://github.com/leongersen/noUiSlider/stargazers</a> for a more detailed documention.
 
-## Colaboration
+## Collaboration
 
 Pull requests are **ALWAYS** appreciated! 
 Thank you for your support!
